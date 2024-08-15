@@ -22,7 +22,7 @@
       <li>Css – Avançado
       <li>JavaScript – intermediário
       <li>Banco de Dados – intermediário
-      <li>Boodstrap – Básico
+      <li>Bootstrap – Básico
  
    </ul>
 
